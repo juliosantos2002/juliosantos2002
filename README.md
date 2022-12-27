@@ -1,4 +1,4 @@
-## Opa! Eu sou Júlio César, estudante e programador Front-End 🖥️!
+## Opa! Eu sou Júlio César, estudante e programador Java e Python 🖥️!
 
 - 🔭 I’m currently working on freelancer!
 - 🌱 I am currently studying at Centro Universitario de Itajubá - FEPI 	:brazil:.
